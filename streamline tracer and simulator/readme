@@ -1,1 +1,7 @@
+Run Main.m to get time of flight profiles in a grid
 
+Run Streamline_forward_tracer_main.m to trace streamlines
+
+Run saturation_centre_cell.m to get saturation profiles on the grid mapped from a single streamline numerically
+
+Run analytical_saturation_calculator.m to get saturation profiles analytically using buckley leverett
