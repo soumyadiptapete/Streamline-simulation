@@ -1,1 +1,2 @@
-incorporate gravity via operator splitting  or solve gravity gravity along with convection at a single timestep
+incorporate gravity via operator splitting  or solve gravity gravity and convection together
+code solves the saturation profiles for a single streamline
